@@ -4,6 +4,10 @@
 
 ## Categories
 
+### Windows
+
+- [コマンドプロンプト](./windows/bat.md)
+
 ### WSL（Ubuntu）
 
 - [WSL インストール](./windows/wsl/install.md)
