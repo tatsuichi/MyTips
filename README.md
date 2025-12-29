@@ -18,3 +18,7 @@
 - [言語ランタイム](./dev-tools/runtime.md)
     - [Ruby](./dev-tools/ruby.md)
 - [静的サイトジェネレータ](./dev-tools/static-site-generator.md)
+
+### 技術
+
+- [AI](./tech/ai.md)
