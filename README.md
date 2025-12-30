@@ -12,6 +12,7 @@
 
 - [WSL インストール](./windows/wsl/install.md)
 - [WSL 基本設定](./windows/wsl/setup.md)
+- [パッケージ更新](./windows/wsl/update.md)
 
 ### 開発環境
 
