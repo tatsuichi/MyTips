@@ -18,6 +18,7 @@
 
 - [言語ランタイム](./dev-tools/runtime.md)
     - [Ruby](./dev-tools/ruby.md)
+- [パッケージマネージャー](./dev-tools/package-manager.md)
 - [静的サイトジェネレータ](./dev-tools/static-site-generator.md)
 - [テキストベースの作図](./dev-tools/text-base-diagram.md)
 
